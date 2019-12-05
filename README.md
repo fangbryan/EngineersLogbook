@@ -9,6 +9,10 @@ To install Ionic/Cordova build environment:
 
 npm install -g cordova ionic
 
+## To clone project: 
+
+git clone https://github.com/fangbryan/EngineersLogbook.git
+
 ## To install project modules
 
 npm install
