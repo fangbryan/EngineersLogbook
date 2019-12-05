@@ -5,9 +5,23 @@ Ionic/Cordova mobile app for tracking driving mileage.
 
 ## Prerequisites
 
-## Built With
+To install Ionic/Cordova build environment:
 
-Ionic/Cordova.
+npm install -g cordova ionic
+
+## To install project modules
+
+npm install
+
+## To run app in web browser:
+
+ionic serve
+
+## To deploy app to Android:
+
+(Requires Android Studio installation)
+
+ionic cordova run android
 
 ## Authors
 
